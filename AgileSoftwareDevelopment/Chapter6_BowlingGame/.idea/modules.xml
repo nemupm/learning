@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter6_BowlingGame.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter6_BowlingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter6_BowlingGame_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter6_BowlingGame_main.iml" group="Chapter6_BowlingGame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter6_BowlingGame_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter6_BowlingGame_test.iml" group="Chapter6_BowlingGame" />
+    </modules>
+  </component>
+</project>
