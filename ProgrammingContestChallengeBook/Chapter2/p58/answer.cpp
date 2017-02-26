@@ -24,8 +24,8 @@ typedef long long ll;
 
 using namespace std;
 
-const int MAX_N = 100;
 const int MAX_W = 10000;
+const int MAX_N = 100;
 int n;
 int w[MAX_N], v[MAX_N];
 int W;
